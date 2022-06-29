@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file://wsl%24/Ubuntu-22.04/home/jaime/projects/frontend/.github/workflows/deploy.yaml"
+    }
+}
